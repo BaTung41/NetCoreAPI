@@ -1,4 +1,4 @@
-package BaiTap2601;
+package Lab2;
 import java.util.Scanner;
 public class bai3slide93 {
     public static void main(String[] args) {

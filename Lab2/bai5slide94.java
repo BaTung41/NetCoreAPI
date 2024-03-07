@@ -1,4 +1,4 @@
-package BaiTap2601;
+package Lab2;
 import java.util.Scanner;
 public class bai5slide94 {public static void main(String[] args) {
     int number, tong = 0;

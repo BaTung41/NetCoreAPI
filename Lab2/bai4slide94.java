@@ -1,4 +1,4 @@
-package BaiTap2601;
+package Lab2;
 
 import java.util.Scanner;
 

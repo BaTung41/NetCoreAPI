@@ -1,0 +1,24 @@
+package Lab2;
+
+import java.util.Scanner;
+
+public class bai9slide96 {
+    public static void main(String[] args) {
+    String chuoi;
+    char kyTu;
+    Scanner scanner = new Scanner(System.in);
+         
+    System.out.println("Nhập vào chuỗi bất kỳ: ");
+    chuoi = scanner.nextLine();
+         
+    System.out.println("Các ký tự có trong chuỗi là: ");
+    for (int i = 0; i < chuoi.length(); i++) {
+      
+        kyTu = chuoi.charAt(i);
+             
+        System.out.println(kyTu);
+    }
+    scanner.close();
+}
+    
+}
